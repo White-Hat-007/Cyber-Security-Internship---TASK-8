@@ -81,3 +81,11 @@ For maximum privacy:
 > **NOTE**: All tests were performed using [BrowserLeaks.com](https://browserleaks.com) and [Cloudflare's ESNI tool](https://www.cloudflare.com/ssl/encrypted-sni/).
 
 ---
+
+## 👨‍💻 Author
+
+**Darsh Chatrani**  
+🔗 [LinkedIn](https://linkedin.com/in/darshchatrani)  
+📞 Contact: +91 97899 57123
+
+---
